@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+#### My name is Bechara Rizk
+
+#### Contact me on: becharaerizk@yahoo.com
+
 <!--
 **bechara-rizk/bechara-rizk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
