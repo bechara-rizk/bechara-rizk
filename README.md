@@ -4,6 +4,7 @@
 
 #### Contact me on: becharaerizk@yahoo.com
 
+---
 
 <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=bechara-rizk&show_icons=true&hide_border=true" />
 
