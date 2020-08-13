@@ -6,7 +6,7 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=bechara-rizk&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=bechara-rizk&show_icons=true&hide_border=false&theme=dark&title_color=78FF97&text_color=78FF97" />
 
 <!--
 **bechara-rizk/bechara-rizk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
