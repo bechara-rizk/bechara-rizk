@@ -5,7 +5,7 @@
 #### Contact me on: becharaerizk@yahoo.com
 
 
-<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=bechara-rizk" />
+<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=bechara-rizk&show_icons=true&hide_border=true" />
 
 <!--
 **bechara-rizk/bechara-rizk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
