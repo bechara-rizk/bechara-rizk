@@ -1,12 +1,10 @@
-### Hi there 👋
-
-#### My name is Bechara Rizk
+## Hello There 👋, My Name is Bechara Rizk
 
 #### Contact me on: becharaerizk@yahoo.com
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=bechara-rizk&show_icons=true&hide_border=false&theme=dark&title_color=78FF97&text_color=78FF97" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=bechara-rizk&show_icons=true&hide_border=false&theme=dark&title_color=78FF97&text_color=FFD300" />
 
 <!--
 **bechara-rizk/bechara-rizk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
