@@ -1,6 +1,5 @@
 ## Hey There 👋, My Name is Bechara Rizk
 ---
-<br>
 
 ## Some personal info :
 <br>
@@ -36,6 +35,7 @@
 <br>
 
 ## Tools I Use :
+[<img align="left" alt="Bechara | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][]
 
 ---
 <br>
