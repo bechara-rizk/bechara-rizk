@@ -1,6 +1,4 @@
 ## Hey There 👋, My Name is Bechara Rizk
-
-
 ---
 <br>
 
@@ -38,7 +36,6 @@
 <br>
 
 ## Tools I Use :
-
 
 ---
 <br>
