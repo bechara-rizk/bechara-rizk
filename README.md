@@ -1,5 +1,5 @@
 ## Hey There 👋, My Name is Bechara Rizk
----
+<br>
 
 ## Some personal info :
 <br>
@@ -35,7 +35,11 @@
 <br>
 
 ## Tools I Use :
-[<img align="left" alt="Bechara | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][]
+[<img align="left" alt="VS Code" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/visualstudiocode.svg" />][vscode]
+[<img align="left" alt="VS Code" width="40px" src="https://www.kite.com/wp-content/uploads/2019/08/kite-logo-FFFFFF-white.svg" />][kite]
+[<img align="left" alt="VS Code" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/visualstudiocode.svg" />][terminal]
+[<img align="left" alt="VS Code" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/visualstudiocode.svg" />][github]
+[<img align="left" alt="VS Code" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/visualstudiocode.svg" />][git]
 
 ---
 <br>
@@ -54,3 +58,8 @@
 [twitter]: https://twitter.com/BecharaRizk21
 [linkedin]:www.linkedin.com/in/rizk-bechara
 [instagram]:https://www.instagram.com/bichhhhhh21/
+[vscode]:https://code.visualstudio.com
+[kite]:https://www.kite.com
+[terminal]:
+[github]:
+[git]:
