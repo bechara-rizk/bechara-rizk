@@ -2,13 +2,10 @@
 <br>
 
 ## Some personal info :
-<br>
 
 ### 🙋‍♂️ 18 Years Old, Currently Studying Electrical And Computer Engineering At The American University Of Beirut 
-<br>
 
  ### 👨‍💻  Working On Right Now : iTHOMB website
-<br>
 
  ### Passions, Things I Like To Do And Achieve :
  - ℹ️ Helping Others 
