@@ -30,10 +30,8 @@
 
 ## Tools I Use :
 [<img align="left" alt="VS Code" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/visualstudiocode.svg" />][vscode]
-[<img align="left" alt="VS Code" width="40px" src="https://www.kite.com/wp-content/uploads/2019/08/kite-logo-FFFFFF-white.svg" />][kite]
-[<img align="left" alt="VS Code" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/visualstudiocode.svg" />][terminal]
-[<img align="left" alt="VS Code" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/visualstudiocode.svg" />][github]
-[<img align="left" alt="VS Code" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/visualstudiocode.svg" />][git]
+[<img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/github.svg" />][github]
+[<img align="left" alt="Git" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/git.svg" />][git]
 <br>
 
 ---
@@ -55,7 +53,5 @@
 [linkedin]:www.linkedin.com/in/rizk-bechara
 [instagram]:https://www.instagram.com/bichhhhhh21/
 [vscode]:https://code.visualstudio.com
-[kite]:https://www.kite.com
-[terminal]:https://en.wikipedia.org/wiki/Terminal
 [github]:https://github.com
 [git]:https://git-scm.com
