@@ -1,5 +1,4 @@
 ## Hey There 👋, My Name is Bechara Rizk
-<br>
 
 ## Some personal info :
 
@@ -28,7 +27,6 @@
 
 ---
 
-<br>
 
 ## Tools I Use :
 [<img align="left" alt="VS Code" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/visualstudiocode.svg" />][vscode]
@@ -36,26 +34,28 @@
 [<img align="left" alt="VS Code" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/visualstudiocode.svg" />][terminal]
 [<img align="left" alt="VS Code" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/visualstudiocode.svg" />][github]
 [<img align="left" alt="VS Code" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/visualstudiocode.svg" />][git]
-
----
 <br>
 
-## Languages I Currently Know : 
+---
 
+## Languages I Currently Know And Use: 
+
+<br>
 
 ---
-<br>
 
 ## My Github Statistics :
 <br>
 
 <img align="left" alt="Bechara's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=bechara-rizk&show_icons=true&hide_border=false&theme=dark&title_color=78FF97&text_color=FFD300" />
 
+---
+
 [twitter]: https://twitter.com/BecharaRizk21
 [linkedin]:www.linkedin.com/in/rizk-bechara
 [instagram]:https://www.instagram.com/bichhhhhh21/
 [vscode]:https://code.visualstudio.com
 [kite]:https://www.kite.com
-[terminal]:
-[github]:
-[git]:
+[terminal]:https://en.wikipedia.org/wiki/Terminal
+[github]:https://github.com
+[git]:https://git-scm.com
