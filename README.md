@@ -32,11 +32,24 @@
 [<img align="left" alt="VS Code" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/visualstudiocode.svg" />][vscode]
 [<img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/github.svg" />][github]
 [<img align="left" alt="Git" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/git.svg" />][git]
+[<img align="left" alt="Raspberry Pi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/raspberrypi.svg" />][rpi]
 <br>
 
 ---
 
-## Languages I Currently Know And Use: 
+## Languages I Know And Use: 
+[<img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/python.svg" />][python]
+[<img align="left" alt="HTML" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/html5.svg" />][html]
+[<img align="left" alt="CSS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/css3.svg" />][css]
+
+<br>
+
+---
+
+## Languages I Am Learning (Or Want To Learn): 
+[<img align="left" alt="SASS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/sass.svg" />][sass]
+[<img align="left" alt="JavaScript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/javascript.svg" />][javascript]
+
 
 <br>
 
@@ -46,9 +59,8 @@
 <br>
 
 <img align="left" alt="Bechara's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=bechara-rizk&show_icons=true&hide_border=false&theme=dark&title_color=78FF97&text_color=FFD300" />
-<br>
 
----
+
 
 [twitter]: https://twitter.com/BecharaRizk21
 [linkedin]:www.linkedin.com/in/rizk-bechara
@@ -56,3 +68,9 @@
 [vscode]:https://code.visualstudio.com
 [github]:https://github.com
 [git]:https://git-scm.com
+[python]:https://www.python.org
+[html]:https://en.wikipedia.org/wiki/HTML
+[css]:https://en.wikipedia.org/wiki/Cascading_Style_Sheets
+[sass]:https://sass-lang.com
+[javascript]:https://en.wikipedia.org/wiki/JavaScript
+[rpi]:https://www.raspberrypi.org
