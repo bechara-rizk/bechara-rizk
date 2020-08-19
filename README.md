@@ -46,6 +46,7 @@
 <br>
 
 <img align="left" alt="Bechara's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=bechara-rizk&show_icons=true&hide_border=false&theme=dark&title_color=78FF97&text_color=FFD300" />
+<br>
 
 ---
 
