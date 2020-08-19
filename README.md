@@ -63,7 +63,7 @@
 
 
 [twitter]: https://twitter.com/BecharaRizk21
-[linkedin]:www.linkedin.com/in/rizk-bechara
+[linkedin]:https://www.linkedin.com/in/rizk-bechara
 [instagram]:https://www.instagram.com/bichhhhhh21/
 [vscode]:https://code.visualstudio.com
 [github]:https://github.com
