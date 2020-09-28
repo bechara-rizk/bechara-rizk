@@ -38,10 +38,10 @@
 ---
 
 ## Languages I Know And Use: 
-[<img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/python.svg" />]
-[<img align="left" alt="HTML" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/html5.svg" />]
-[<img align="left" alt="CSS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/css3.svg" />]
-[<img align="left" alt="SASS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/sass.svg" />]
+<img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/python.svg" />
+<img align="left" alt="HTML" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/html5.svg" />
+<img align="left" alt="CSS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/css3.svg" />
+<img align="left" alt="SASS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/sass.svg" />
 
 <br>
 
