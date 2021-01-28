@@ -12,7 +12,7 @@
  - 🏎 Watching Formula 1 
  - 🖥 Dismatling Electronic Devices 
  - 🔭 SpaceX
- - 🤯 Exploring The Human Mind Works
+ - 🤯 Exploring The Human Mind
  - 💥 Mechanical And Aerodynamics Engineering
  - 🌐 Getting To Know Everything...
 
