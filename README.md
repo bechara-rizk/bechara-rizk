@@ -4,7 +4,7 @@
 
 ### 🙋‍♂️ 18 Years Old, Currently Studying Computer and Communcations Engineering At The American University Of Beirut 
 
- ### 👨‍💻  Working On Right Now : iTHOMB website
+ ### 👨‍💻  Working On Right Now : University studies and other side projects
 
  ### Passions, Things I Like To Do And Achieve :
  - ℹ️ Helping Others 
