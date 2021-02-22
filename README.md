@@ -2,7 +2,7 @@
 
 ## Some personal info :
 
-### 🙋‍♂️ 18 Years Old, Currently Studying Computer and Communcations Engineering At The American University Of Beirut 
+### 🙋‍♂️ 19 Years Old, Currently Studying Computer and Communcations Engineering At The American University Of Beirut 
 
  ### 👨‍💻  Working On Right Now : University studies and other side projects
 
