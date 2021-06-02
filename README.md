@@ -11,10 +11,8 @@
  - 🤽‍♂️ Playing Waterpolo 
  - 🏎 Watching Formula 1 
  - 🖥 Dismatling Electronic Devices 
- - 🔭 SpaceX
- - 🤯 Exploring The Human Mind
+ - 🤯 Understanding The Human Mind
  - 💥 Mechanical And Aerodynamics Engineering
- - 🌐 Getting To Know Everything...
 
 ---
 
